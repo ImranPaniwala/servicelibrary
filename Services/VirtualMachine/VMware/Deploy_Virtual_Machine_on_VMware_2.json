@@ -275,6 +275,7 @@
                   "vm_domain_name": "${vsphere_managed_inventory_definition.vm_domain_name}",
                   "vm_os_user": "${vsphere_managed_inventory_definition.vm_os_user}",
                   "vm_os_password": "${vsphere_managed_inventory_definition.vm_os_password}",
+                  "port": "${vsphere_managed_inventory_definition.port}",
                   "vm_os_private_ssh_key": "${vsphere_managed_inventory_definition.vm_os_private_ssh_key}",
                   "vm_os_public_ssh_key": "${vsphere_managed_inventory_definition.vm_os_public_ssh_key}",
                   "datastore": "${vsphere_managed_inventory_definition.datastore}",
