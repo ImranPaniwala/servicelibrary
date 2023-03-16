@@ -64,6 +64,7 @@ To deploy this service from IBM Cloud Automation Manager navigate to Automate In
 | VM Memory Allocation (MB)                 | string      |  | |
 | VM vCPU Allocation                | string      |  | |
 | vm_disk_size                 | string      |  | |
+| port                         | string      | Enter a custom port for ssh such as 2022 | |
 
 ## Deploying the service from Service Library
 
@@ -78,6 +79,7 @@ To deploy this service from Service Library navigate to Automate Infrastructure 
 | VM Memory Allocation (MB)                 | string      |  | |
 | VM vCPU Allocation                | string      |  | |
 | vm_disk_size                 | string      |  | |
+| port                         | string      | Enter a custom port for ssh such as 2022 | |
 
 
 ### License and Maintainer
